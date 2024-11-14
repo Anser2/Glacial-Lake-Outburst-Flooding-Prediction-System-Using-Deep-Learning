@@ -1,5 +1,10 @@
 # GLOF Early Warning System using AI (Still In-Progress)
 Final Year Design Project (FYDP) - NUST
+
+
+https://github.com/user-attachments/assets/a6cb5224-1810-4089-a829-3d55374be8c6
+
+
 # Project Overview
 This project presents an AI-based early warning system designed to predict potential Glacial Lake Outburst Floods (GLOFs), using environmental data, machine learning, and real-time monitoring. Inspired by the 2022 floods, which brought significant devastation to our region, this system aims to reduce the impact of such natural disasters by providing timely warnings.
 
